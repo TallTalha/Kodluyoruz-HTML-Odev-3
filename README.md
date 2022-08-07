@@ -1,4 +1,4 @@
-  # Kodluyoruz HTML eğitiminde bulunan üçüncü ödevin reposudur.
+  # Kodluyoruz HTML eğitiminde bulunan bölüm sonu çalışmasıdır.
   ##  www.patika.dev profilim : [Profil Linki](https://app.patika.dev/JessFlexx)
   ## Ödevin ekran görüntüsü
 
